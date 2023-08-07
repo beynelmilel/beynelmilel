@@ -1,6 +1,6 @@
 ﻿### Hi, Welcome to my GitHub Profile 
 
-I'm [Yunus Emre](https://www.linkedin.com/in/yunuseraslan/). I'm studying Computer Science in ATATÜRK University.
+I'm [Emre](https://www.linkedin.com/in/yunuseraslan/). I'm studying Computer Science in ATATÜRK University.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beynelmilel" alt="beynelmilel" /> </p>
