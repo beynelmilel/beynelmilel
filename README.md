@@ -8,7 +8,6 @@ I'm [Emre](https://www.linkedin.com/in/yunuseraslan/). I'm studying Computer Sci
 - 💬 Ask me about anything you want
 - 📫 How to reach me: You can send me an email to [yunuseraslan34@gmail.com](mailto://yunuseraslan34@gmail.com)
 - ⚡ I'm currently learning:
-    - Kotlin 
     - Python
     - Javascript
     - Flutter
